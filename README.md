@@ -1,5 +1,5 @@
 # 책Check
-## 2021 인천대학교 캡스톤디자인 졸업작품 경진대회 - 장려상 🎖
+## 2021 인천대학교 캡스톤디자인 졸업작품 경진대회 수상작🎖
 
 **<a href="https://github.com/sungjin0757/Inu-Capstone-2021/raw/master/presentation.pptx">DOWNLOAD : 발표 자료 </a>**</br>
 **<a href="https://github.com/sungjin0757/Inu-Capstone-2021/raw/master/%EB%B0%9C%ED%91%9C%EC%98%81%EC%83%81.mp4">DOWNLOAD : 발표 영상 </a>**
